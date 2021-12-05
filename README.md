@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- ⛑ I’m currently working on an opencv project
+- 🚧 I’m currently working on an opencv project
 - 📚 I’m currently learning neural networks
 - ☕️ I’m looking to collaborate on anything math
 - 🤔 I’m looking for help with growing my network
