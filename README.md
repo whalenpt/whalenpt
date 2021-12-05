@@ -1,3 +1,5 @@
+![](https://github.com/whalenpt/whalenpt/resources/github_banner.jpg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on an opencv project
