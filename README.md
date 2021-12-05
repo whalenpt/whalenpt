@@ -1,4 +1,4 @@
-![](https://github.com/whalenpt/whalenpt/resources/github_banner.jpg)
+![](resources/github_banner.jpg)
 
 ### Hi there 👋
 
